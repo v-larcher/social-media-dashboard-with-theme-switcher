@@ -79,7 +79,7 @@
     height: 18.4px;
     width: 18.4px;
     left: 28.2px;
-    bottom: 3.2px;
+    bottom: 3.7px;
     background-color: hsl(225, 100%, 98%);
     -webkit-transition: 0.5s;
     transition: 0.5s;
@@ -90,7 +90,7 @@
     height: 18.5px;
     width: 18.5px;
     left: 3px;
-    bottom: 3px;
+    bottom: 3.7px;
     background-color: hsl(232, 19%, 15%);
     -webkit-transition: 0.5s;
     transition: 0.5s;
